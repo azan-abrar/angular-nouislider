@@ -6,7 +6,7 @@ angular.module('nouislider', []).directive('slider', function () {
       start: '@',
       step: '@',
       end: '@',
-      directiob: '@',
+      direction: '@',
       callback: '@',
       margin: '@',
       ngModel: '=',
